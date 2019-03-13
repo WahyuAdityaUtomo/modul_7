@@ -46,6 +46,8 @@ $result = mysqli_query($connect, $query);
 $num = mysqli_affected_rows($connect);
 
 ScreenShot
+
+
 1.
 ![php1](https://user-images.githubusercontent.com/41880161/54256521-de5fbe80-458e-11e9-88ce-d5a58a6d6d2c.JPG)
 2.
